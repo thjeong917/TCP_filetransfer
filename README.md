@@ -4,6 +4,10 @@ File transferring code used in Computer Network class
 ## Goal
 TCP 기반 소켓 프로그래밍으로 지정한 IP와 port를 향해 파일 송/수신이 가능한 프로그램을 만든다.
 
+
+## Detail & Code
+For more detailed information, please read [report](./report.pdf).
+
 ## Use Case
 
 **파일 전송**
